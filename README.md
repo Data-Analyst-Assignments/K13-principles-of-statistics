@@ -1,5 +1,3 @@
-# K13 Principles of Statistics
-
 # Assignment Brief: K13 – Principles of Statistics for Analysing Datasets
 
 ## Title  
