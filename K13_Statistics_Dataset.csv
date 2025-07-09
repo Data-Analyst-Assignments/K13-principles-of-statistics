@@ -1,0 +1,21 @@
+Record ID,Region,Product Type,Units Sold,Unit Price (£),Customer Rating (1–5)
+1,North,A,120,15.0,4.2
+2,South,B,200,12.5,3.8
+3,East,A,150,15.0,4.5
+4,West,C,90,18.0,4.0
+5,North,B,110,12.5,3.7
+6,South,C,170,18.0,4.1
+7,East,A,130,15.0,4.3
+8,West,B,100,12.5,3.6
+9,North,C,95,18.0,4.2
+10,South,A,160,15.0,4.0
+11,East,B,180,12.5,3.9
+12,West,C,105,18.0,4.1
+13,North,A,140,15.0,4.4
+14,South,B,190,12.5,3.8
+15,East,C,85,18.0,4.2
+16,West,A,155,15.0,4.3
+17,North,B,125,12.5,3.9
+18,South,C,175,18.0,4.0
+19,East,A,145,15.0,4.5
+20,West,B,115,12.5,3.7
