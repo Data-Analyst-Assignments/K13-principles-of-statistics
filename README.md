@@ -57,21 +57,6 @@ You have been provided with a dataset that reflects typical business activity (e
 
 ---
 
-## Suggested Dataset (Generic Business Example)
-
-| Record ID | Region | Product Type | Units Sold | Unit Price (£) | Customer Rating (1–5) |
-|-----------|--------|---------------|------------|----------------|------------------------|
-| 001       | North  | Type A        | 120        | 15.00          | 4.2                    |
-| 002       | South  | Type B        | 200        | 12.50          | 3.8                    |
-| 003       | East   | Type A        | 150        | 15.00          | 4.5                    |
-| 004       | West   | Type C        | 90         | 18.00          | 4.0                    |
-| 005       | North  | Type B        | 110        | 12.50          | 3.7                    |
-| 006       | South  | Type C        | 170        | 18.00          | 4.1                    |
-| 007       | East   | Type A        | 130        | 15.00          | 4.3                    |
-| 008       | West   | Type B        | 100        | 12.50          | 3.6                    |
-
----
-
 ## Assessment Criteria (K13)
 
 | Requirement                                | Must Be Evidenced |
